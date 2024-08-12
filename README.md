@@ -1,6 +1,6 @@
-# Notcoin Clone
+# runwaycoin clicker
 
-This repository contains the initial setup and the final version of the Notcoin clone project, including the basic project structure, necessary images, and icons.
+This repository contains the initial setup and the final version of the runwaycoin clicker game project, including the basic project structure, necessary images, and icons.
 
 ## Overview
 
@@ -18,8 +18,8 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
-    cd Notcoin-Telegram-Mini-App-Clone
+    git clone https://github.com/ef-code/runwaycoin-clicker.git
+    cd runwaycoin-clicker
     ```
 
 ### Initial Setup
@@ -72,5 +72,5 @@ To get started with either the initial setup or the final version, follow these 
 
 ## Contact
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
+For any inquiries, please contact me in Telegram:(https://t.me/mvangaard).
 
